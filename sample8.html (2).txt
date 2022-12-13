@@ -1,0 +1,57 @@
+
+
+<head>
+<title>SLAMBOOK</title>
+</head>
+<style>
+body {
+       background-image: url(https://pngtree.com/freebackground/beautiful-aesthetic-wallpapers_1461598.html)
+        background-size:1500px
+}
+h1{color: #000080}
+</style>
+<body>
+<center>
+<h1> MY SLAMBOOK </h1>
+<table cellpadding=“7”>
+<form>
+<tr>
+ <td style=“background color: pink;><input type="text" placeholder=“Enter your name”></td>
+<td style=“background color: yellow;><input type="password" placeholder=“Enter your password”></td>
+</tr>
+<tr>
+<td style=“background color: purple;>Male<input type-"radio" name=“gender”></td>
+<td style=“background color: grey>Female<input type-"radio" name=“gender”></td>
+</tr>
+<tr>
+<td style=“background color: cyan; colspan”2” >Ariana Grande<input type=“checkbox”>
+LANY<input type=“checkbox”>
+Arctic Monkeys<input type=“checkbox”></td>
+</tr>
+<tr>
+<td colspan=“2”>
+Date of Birth:
+<select>
+<option>August</option>
+<option>May</option>
+<option>March</option>
+</select>
+<select>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+</select>
+</td>
+</tr>
+<tr>
+<td colspan=“2”><textarea placeholder=“Insert your comment here” cols=“50” rows=“7”></textarea></td>
+</tr>
+<tr>
+<td><input type=“submit”></td>
+<td><input type=“reset”></td>
+</tr>
+
+</ form>
+</table>
+</body>
+</html>
